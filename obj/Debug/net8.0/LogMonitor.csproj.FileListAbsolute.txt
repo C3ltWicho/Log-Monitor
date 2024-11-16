@@ -1,0 +1,14 @@
+/Users/luismelchor97/LogMonitor/bin/Debug/net8.0/LogMonitor
+/Users/luismelchor97/LogMonitor/bin/Debug/net8.0/LogMonitor.deps.json
+/Users/luismelchor97/LogMonitor/bin/Debug/net8.0/LogMonitor.runtimeconfig.json
+/Users/luismelchor97/LogMonitor/bin/Debug/net8.0/LogMonitor.dll
+/Users/luismelchor97/LogMonitor/bin/Debug/net8.0/LogMonitor.pdb
+/Users/luismelchor97/LogMonitor/obj/Debug/net8.0/LogMonitor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luismelchor97/LogMonitor/obj/Debug/net8.0/LogMonitor.AssemblyInfoInputs.cache
+/Users/luismelchor97/LogMonitor/obj/Debug/net8.0/LogMonitor.AssemblyInfo.cs
+/Users/luismelchor97/LogMonitor/obj/Debug/net8.0/LogMonitor.csproj.CoreCompileInputs.cache
+/Users/luismelchor97/LogMonitor/obj/Debug/net8.0/LogMonitor.dll
+/Users/luismelchor97/LogMonitor/obj/Debug/net8.0/refint/LogMonitor.dll
+/Users/luismelchor97/LogMonitor/obj/Debug/net8.0/LogMonitor.pdb
+/Users/luismelchor97/LogMonitor/obj/Debug/net8.0/LogMonitor.genruntimeconfig.cache
+/Users/luismelchor97/LogMonitor/obj/Debug/net8.0/ref/LogMonitor.dll

@@ -1,0 +1,5 @@
+2024-09-30 10:15:22 INFO Application started
+2024-09-30 10:15:23 WARN Disk space low
+2024-09-30 10:15:25 ERROR Unable to connect to database
+2024-09-30 10:15:27 INFO User logged in
+2024-09-30 10:16:31 WARN Disk space low
